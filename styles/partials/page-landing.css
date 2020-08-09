@@ -63,6 +63,13 @@
     background: var(--color-primary-light);
 }
 
+.buttons-container a.calculy {
+    background: var(--color-button-calculy);
+}
+.buttons-container a.calculy:hover {
+    background: var(--color-button-calculy-dark);
+}
+
 .buttons-container a.give-classes {
     background: var(--color-secondary);
     margin-right: 0;

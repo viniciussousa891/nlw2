@@ -18,6 +18,8 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
+    --color-button-calculy: #1CCB6C;
+    --color-button-calculy-dark: #1fa55b;
 
     /* Tamanho da fonte padrão: 16px === 1rem === 100% */
     font-size: 60%; /* controle das medidas rem */
